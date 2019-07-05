@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+#Firefox selenium driver log
+geckodriver.*
+
 # Distribution / packaging
 .Python
 build/
